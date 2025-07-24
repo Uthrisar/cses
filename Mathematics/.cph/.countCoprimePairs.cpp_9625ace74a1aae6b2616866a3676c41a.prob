@@ -1,0 +1,1 @@
+{"name":"Local: countCoprimePairs","url":"c:\\Users\\boro5\\Code\\cses\\maths\\countCoprimePairs.cpp","tests":[{"id":1729961317200,"input":"8\n5 4 20 1 16 17 5 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\boro5\\Code\\cses\\maths\\countCoprimePairs.cpp","group":"local","local":true}
