@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"c:\\Users\\boro5\\Code\\cses\\dp\\codes\\lcs.cpp","tests":[{"id":1753866123381,"input":"8 6\n3 1 3 2 7 4 8 2\n6 5 1 2 3 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\boro5\\Code\\cses\\dp\\codes\\lcs.cpp","group":"local","local":true}
